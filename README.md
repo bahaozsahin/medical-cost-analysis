@@ -26,8 +26,8 @@ We must have chosen the best model based on the performance metrics and applied 
 - charges: Individual medical costs billed by health insurance
 
 ## Pytorturers
-- :small_orange_diamond: Abdurrahman Keskin [LinkedIn](https://github.com/bahaozsahin) **|** [GitHub](https://github.com/Keskinksn)
-- :small_orange_diamond: Baha Özşahin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/bahaozsahin)
-- :small_orange_diamond: Esra Nur Erkek [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/) **|** [GitHub](https://github.com/Esranuerkek)
-- :small_orange_diamond: Hakan Özdemir [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/) **|** [GitHub](https://github.com/hakan-ozdemir)
-- :small_orange_diamond: Melisa Çağılgan [GitHub](https://https://github.com/melisacagilgan/) **|** [LinkedIn](https://www.linkedin.com/in/melisacagilgan/)
+> Abdurrahman Keskin [LinkedIn](https://github.com/bahaozsahin) **|** [GitHub](https://github.com/Keskinksn)
+> Baha Özşahin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/bahaozsahin)
+> Esra Nur Erkek [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/) **|** [GitHub](https://github.com/Esranuerkek)
+> Hakan Özdemir [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/) **|** [GitHub](https://github.com/hakan-ozdemir)
+> Melisa Çağılgan [LinkedIn](https://www.linkedin.com/in/melisacagilgan/) **|** [GitHub](https://github.com/melisacagilgan/)
