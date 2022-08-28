@@ -8,8 +8,8 @@ This project was done within the scope of Global AI Hub's AI Summer Camp'22. In 
 - Random Forest Regressor
 - Bayesian Ridge Model
 - AdaBoost Regressor
-- Support Vector Regressor -RBF-
-- Support Vector Regressor -Linear-
+- Support Vector Regressor -RBF
+- Support Vector Regressor -Linear
 We must have chosen the best model based on the performance metrics and applied the hyperparameter optimization to that model. The highest accuracy belonged to the Histogram-based Gradient Boosting Regression Tree, so we optimized this model using GridSearchCV. Our ultimate goal was to use the best model with optimized hyperparameters to forecast insurance costs using the dataset mentioned above.
 
 ## About Dataset
@@ -26,8 +26,8 @@ We must have chosen the best model based on the performance metrics and applied 
 - charges: Individual medical costs billed by health insurance
 
 ## Pytorturers
-> Abdurrahman Keskin [LinkedIn](https://github.com/bahaozsahin) **|** [GitHub](https://github.com/Keskinksn)
-> Baha Özşahin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/bahaozsahin)
-> Esra Nur Erkek [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/) **|** [GitHub](https://github.com/Esranuerkek)
-> Hakan Özdemir [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/) **|** [GitHub](https://github.com/hakan-ozdemir)
-> Melisa Çağılgan [LinkedIn](https://www.linkedin.com/in/melisacagilgan/) **|** [GitHub](https://github.com/melisacagilgan/)
+- Abdurrahman Keskin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/Keskinksn)
+- Baha Özşahin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/bahaozsahin)
+- Esra Nur Erkek [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/) **|** [GitHub](https://github.com/Esranuerkek)
+- Hakan Özdemir [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/) **|** [GitHub](https://github.com/hakan-ozdemir)
+- Melisa Çağılgan [LinkedIn](https://www.linkedin.com/in/melisacagilgan/) **|** [GitHub](https://github.com/melisacagilgan/)
