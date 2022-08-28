@@ -1,4 +1,4 @@
-## Medical Cost Analysis and Insurance Forecast
+# Medical Cost Analysis and Insurance Forecast
 
 ## About Project
 This project was done within the scope of Global AI Hub's AI Summer Camp'22. In this project, we used one of Kaggle's datasets, including personal medical costs based on age, sex,	bmi,	children,	smoker,	region,	and charges. First, we analyzed the dataset in both a written and visual manner. We also applied some preprocessing methods to our dataset. After that, we chose to test the following models as a regressor for our project;
@@ -16,7 +16,7 @@ We must have chosen the best model based on the performance metrics and applied 
 - Name: Medical Cost Personal Datasets
 - Kaggle Link: [insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance?datasetId=13720)
 
-## Dataset Content
+###### Content
 - age: Age of primary beneficiary
 - sex: Insurance contractor gender (female, male)
 - bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
@@ -26,13 +26,8 @@ We must have chosen the best model based on the performance metrics and applied 
 - charges: Individual medical costs billed by health insurance
 
 ## Pytorturers
-:small_orange_diamond: Abdurrahman Keskin - [GitHub](https://github.com/Keskinksn)
-                                          - [LinkedIn](https://github.com/bahaozsahin)
-:small_orange_diamond: Baha Özşahin - [GitHub](https://github.com/bahaozsahin)
-                                    - [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/)
-:small_orange_diamond: Esra Nur Erkek - [GitHub](https://github.com/Esranuerkek)
-                                      - [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/)
-:small_orange_diamond: Hakan Özdemir - [GitHub](https://github.com/hakan-ozdemir)
-                                     - [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/)
-:small_orange_diamond: Melisa Çağılgan - [GitHub](https://https://github.com/melisacagilgan/)
-                                       - [LinkedIn](https://www.linkedin.com/in/melisacagilgan/)
+- :small_orange_diamond: Abdurrahman Keskin [LinkedIn](https://github.com/bahaozsahin) **|** [GitHub](https://github.com/Keskinksn)
+- :small_orange_diamond: Baha Özşahin [LinkedIn](https://www.linkedin.com/in/baha-ozsahin/) **|** [GitHub](https://github.com/bahaozsahin)
+- :small_orange_diamond: Esra Nur Erkek [LinkedIn](https://www.linkedin.com/in/esra-nur-erkek-406a8317b/) **|** [GitHub](https://github.com/Esranuerkek)
+- :small_orange_diamond: Hakan Özdemir [LinkedIn](https://www.linkedin.com/in/hakanozdemir34/) **|** [GitHub](https://github.com/hakan-ozdemir)
+- :small_orange_diamond: Melisa Çağılgan [GitHub](https://https://github.com/melisacagilgan/) **|** [LinkedIn](https://www.linkedin.com/in/melisacagilgan/)
